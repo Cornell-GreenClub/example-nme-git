@@ -1,3 +1,3 @@
 # example-nme-git
 
-This is an example repo for NME Fall '24.
+This is an example repo for NME Spring '25.
